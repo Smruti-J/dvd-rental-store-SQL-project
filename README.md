@@ -26,7 +26,3 @@ In this project, I wrote SQL queries to extract insights such as:
 - **pgAdmin 4** (query editor & schema exploration)  
 - **Excel** (visualizations & charts)  
 - **GitHub** (project documentation)  
-
----
-
-## 📊 Key Insights & Queries
